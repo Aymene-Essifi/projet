@@ -1,0 +1,4 @@
+Titre du Projet : Plateforme Intelligente de Gestion des Billets du Mondial 2030
+Description : Système de détection de billetterie avec de fraude par IA, distribution optimisée des lieux selon les flux de spectateurs et intégration blockchain pour la traçabilité. La plateforme gère l'achat, le transfert sécurisé et le contrôle d'accès en temps réel.
+Technologies suggérées : Spring Boot, Angular, Machine Learning (Python), Blockchain
+Thèmes Principaux : Gestion des Tickets du Mondial 2030, Gestion du déplacement massif des spectateurs
